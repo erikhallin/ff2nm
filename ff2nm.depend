@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509043540 source:e:\cpp\saxs\ff2nm\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<stdlib.h>
+	<math.h>
+
